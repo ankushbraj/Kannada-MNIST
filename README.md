@@ -37,15 +37,13 @@ The Testing data is similar to training dataset but with no labels
 
 ## Usage
 
-## To train the model
-```
+## Procedure to train and test
+
 The data set must be downloaded from these links 
 [train.csv](https://drive.google.com/file/d/1QV5E44utfjY-PBLRTfQr0wO2spgIPDHW/view?usp=sharing).
 [train.csv](https://drive.google.com/file/d/1fk1HiVuTCx54wpIAeFU2p4mkYyM_-OBm/view?usp=sharing).
 
 and saved in Google Drive. Some of the changes must be made according to documentation written in Jupyter Notebook.
-
-```
 
 ## Credits
 ```
