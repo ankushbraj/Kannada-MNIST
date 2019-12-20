@@ -3,7 +3,10 @@ This is project for APPLIED ARTIFICIAL IINTELLIGENCE Module at SRH Heidelberg
 
 
 ## Overview
+
 Kannada is my Mothertongue and is a language spoken predominantly by people of Karnataka in southwestern India. The language has roughly 45 million native speakers and is written using the Kannada script [Wikipedia](https://en.wikipedia.org/wiki/Kannada).
+
+![Overview](kannada.png)
 
 The digital handwritten dataset, termed Kannada-MNIST was released on 3rd August 2019 [paper](https://arxiv.org/pdf/1908.01242.pdf). The github repo of the author can be found [here.](https://github.com/vinayprabhu/Kannada_MNIST).
 
