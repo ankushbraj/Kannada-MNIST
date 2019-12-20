@@ -47,5 +47,5 @@ and saved in Google Drive. Some of the changes must be made according to documen
 
 ## Credits
 
-Vinay Prabhu for providing dataset through his [Dataset](https://github.com/vinayprabhu/Kannada_MNIST)
+Vinay Prabhu for providing dataset through his [Repo](https://github.com/vinayprabhu/Kannada_MNIST)
 
