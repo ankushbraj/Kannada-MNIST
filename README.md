@@ -24,11 +24,26 @@ Google Cloud Platform
 Jupyter Notbook
 
 ```
+## Dataset
+
+```
+The training data set contains 60000 rows with 785 columns. Labels are provided in the first column. That is my target value. Here it is numbers from 0 to 9. I have plotted the  bar graph in Jupyter Notebook to see the distribution of this target value. Pixel0 to Pixel783: These are the pixel values of the image metrics representing pixel position in the image metric.
+
+
+The Testing data is similar to training dataset but with no labels
+
+```
+
+
 ## Usage
 
 ## To train the model
 ```
-The data set must be downloaded from this link and saved in Google Drive. Some of the changes must be made according to documentation written in Jupyter Notebook
+The data set must be downloaded from these links 
+[train.csv](https://drive.google.com/file/d/1QV5E44utfjY-PBLRTfQr0wO2spgIPDHW/view?usp=sharing).
+[train.csv](https://drive.google.com/file/d/1fk1HiVuTCx54wpIAeFU2p4mkYyM_-OBm/view?usp=sharing).
+
+and saved in Google Drive. Some of the changes must be made according to documentation written in Jupyter Notebook.
 
 ```
 
