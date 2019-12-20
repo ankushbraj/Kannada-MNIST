@@ -26,13 +26,10 @@ Jupyter Notbook
 ```
 ## Dataset
 
-```
+
 The training data set contains 60000 rows with 785 columns. Labels are provided in the first column. That is my target value. Here it is numbers from 0 to 9. I have plotted the  bar graph in Jupyter Notebook to see the distribution of this target value. Pixel0 to Pixel783: These are the pixel values of the image metrics representing pixel position in the image metric.
-
-
 The Testing data is similar to training dataset but with no labels
 
-```
 
 
 ## Usage
